@@ -1,0 +1,3 @@
+C:/Users/Lukasz/CLionProjects/APTO/Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Lukasz/CLionProjects/APTO/Project/cmake-build-debug/CMakeFiles/APTO.dir
+C:/Users/Lukasz/CLionProjects/APTO/Project/cmake-build-debug/CMakeFiles/edit_cache.dir
